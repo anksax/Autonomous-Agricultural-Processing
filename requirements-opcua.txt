@@ -1,0 +1,3 @@
+# Optional: external OpenPLC and stand-in OPC UA modes.
+-r requirements.txt
+asyncua

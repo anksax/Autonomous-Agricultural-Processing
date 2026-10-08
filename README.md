@@ -88,4 +88,3 @@ This is an academic simulation; the repository does not establish a validated in
 Project credit: Group 12. See the report for the original project context. CoppeliaSim, OpenPLC, Mitsubishi GX Works3 and RT ToolBox are external software tools and are not bundled here.
 
 No open-source license has been selected yet. See [LICENSE-NOTICE.md](LICENSE-NOTICE.md). Third-party software and model assets remain subject to their respective terms.
-

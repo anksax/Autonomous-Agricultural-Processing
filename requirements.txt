@@ -1,0 +1,3 @@
+# Optional: required for the CoppeliaSim 3D mode.
+# Versions are intentionally unpinned; this environment only verified offline mode.
+coppeliasim-zmqremoteapi-client
