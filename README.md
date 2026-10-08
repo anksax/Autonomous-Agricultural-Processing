@@ -1,6 +1,45 @@
-# Autonomous Onion Sorting and Agricultural Processing
+# Group 12 – Autonomous Agricultural Processing
 
 Group 12's agricultural automation project: onion grading, sprout rejection, conveyor sorting, crate handling, and robotic palletizing. This repository contains the Python simulation, CoppeliaSim scene, OpenPLC Structured Text, project report, and screenshots of the Mitsubishi GX Works3 and RT ToolBox implementations.
+
+## Problem statement
+
+Design a post-harvest processing system that receives agricultural products, classifies them according to size/quality, sorts them and prepares them for packaging.
+
+### Minimum features
+
+- Minimum 3 grades/categories
+- Automated feeding
+- Classification decision
+- Sorting
+- Packaging
+- Fault/rejection handling
+- Quantity monitoring
+
+### Expected flow
+
+Product Input → Classification → Grading → Sorting → Packaging
+
+### Suggested KPIs
+
+- Classification accuracy
+- Processing rate
+- Grade-wise quantity
+
+## Team — Group 12
+
+Department of Robotics and Automation, Symbiosis Institute of Technology, Pune.
+
+| Team member | PRN |
+|---|---|
+| Ankur Saxena | 24070127019 |
+| Apara Shaligram | 24070127023 |
+| Sakshi Goyal | 24070127101 |
+| Yajat Alimchandani | 24070127137 |
+| Om Sonawane | 25070127510 |
+| Raghavendra Pathe | 25070127508 |
+
+Team details are taken from the [project report](docs/report/Group12_Autonomous_Agricultural_Processing_Report_V7.pdf).
 
 ## Process
 
