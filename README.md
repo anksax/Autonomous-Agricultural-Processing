@@ -1,5 +1,7 @@
 # Group 12 – Autonomous Agricultural Processing
 
+This project was our submission for the **Robotics and Automation Hackathon held on 8 October 2026 (08/10/26)**.
+
 Group 12's agricultural automation project: onion grading, sprout rejection, conveyor sorting, crate handling, and robotic palletizing. This repository contains the Python simulation, CoppeliaSim scene, OpenPLC Structured Text, project report, and screenshots of the Mitsubishi GX Works3 and RT ToolBox implementations.
 
 ## Problem statement
