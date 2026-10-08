@@ -11,6 +11,7 @@ venv/
 .DS_Store
 Thumbs.db
 *.mp4
+!docs/media/*.mp4
 # Private OPC UA credentials and key material
 *.key
 *.pem
